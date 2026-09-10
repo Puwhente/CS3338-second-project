@@ -1,0 +1,45 @@
+commit aec413251793a12f08744753e2d69ffc6651ad6e
+Merge: d990294 61e91c4
+Author: Andrew Puente <puenteab13@gmail.com>
+Date:   Thu Sep 10 16:40:34 2026 -0700
+
+    Fixed conflict
+
+commit 61e91c486dea2707ec47ae0b9f218da7bc308f3d
+Author: Andrew Puente <puenteab13@gmail.com>
+Date:   Thu Sep 10 16:37:06 2026 -0700
+
+    Adding extra info x2
+
+commit d990294af8141f9f75ad9ee5d7553ac6454723ba
+Author: Andrew Puente <puenteab13@gmail.com>
+Date:   Thu Sep 10 15:52:58 2026 -0700
+
+    Adding extra info
+
+commit 9a6b29bbeaa08b7f0bcfa52025eeffb4fc6ebb8a
+Author: Andrew Puente <puenteab13@gmail.com>
+Date:   Wed Sep 9 21:07:44 2026 -0700
+
+    Add README
+
+commit afea1fda65c39b0372752faae2df5890ecf004b4
+Merge: 1d2bfc0 a202ca4
+Author: Puwhente <puenteab13@gmail.com>
+Date:   Wed Sep 9 20:55:16 2026 -0700
+
+    Merge info-fill into main
+    
+    filled out the questionnaire.
+
+commit a202ca477d9a38d1bd16ad2a496539c10a39dbb6
+Author: Andrew Puente <puenteab13@gmail.com>
+Date:   Wed Sep 9 20:15:03 2026 -0700
+
+    Filled out
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
